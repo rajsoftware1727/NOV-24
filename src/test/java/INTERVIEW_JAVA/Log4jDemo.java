@@ -14,6 +14,7 @@ public class Log4jDemo {
 
 	logger.info("info level");
 	logger.error("error level");
+	logger.fatal("fatal level");
 	}
 
 }
