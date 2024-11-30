@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-21T17:34:12 IST" name="Interview Preparation" finished-at="2024-11-21T17:34:13 IST" duration-ms="1246">
+  <suite started-at="2024-11-30T21:38:07 IST" name="Default suite" finished-at="2024-11-30T21:38:17 IST" duration-ms="10129">
     <groups>
     </groups>
-    <test started-at="2024-11-21T17:34:12 IST" name="Selenium Practice Basics" finished-at="2024-11-21T17:34:13 IST" duration-ms="1246">
+    <test started-at="2024-11-30T21:38:07 IST" name="Default test" finished-at="2024-11-30T21:38:17 IST" duration-ms="10129">
       <class name="INTERVIEW_JAVA.ToReadExcelData">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:INTERVIEW_JAVA.ToReadExcelData@71e9ddb4]" started-at="2024-11-21T17:34:12 IST" name="beforeTest" finished-at="2024-11-21T17:34:12 IST" duration-ms="29" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:INTERVIEW_JAVA.ToReadExcelData@5b94b04d]" started-at="2024-11-30T21:38:07 IST" name="beforeTest" finished-at="2024-11-30T21:38:17 IST" duration-ms="9625" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="enterNames(java.lang.String,java.lang.String)[pri:0, instance:INTERVIEW_JAVA.ToReadExcelData@71e9ddb4]" started-at="2024-11-21T17:34:13 IST" name="enterNames" data-provider="rr" finished-at="2024-11-21T17:34:13 IST" duration-ms="9" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr507257]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[uzunyny]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="MouseKeyboardActionsDemo()[pri:0, instance:INTERVIEW_JAVA.ToReadExcelData@5b94b04d]" started-at="2024-11-30T21:38:17 IST" name="MouseKeyboardActionsDemo" finished-at="2024-11-30T21:38:17 IST" duration-ms="463" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- enterNames -->
+        </test-method> <!-- MouseKeyboardActionsDemo -->
       </class> <!-- INTERVIEW_JAVA.ToReadExcelData -->
-    </test> <!-- Selenium Practice Basics -->
-  </suite> <!-- Interview Preparation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

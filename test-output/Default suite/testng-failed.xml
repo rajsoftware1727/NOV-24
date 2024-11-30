@@ -5,7 +5,9 @@
     <classes>
       <class name="INTERVIEW_JAVA.ToReadExcelData">
         <methods>
-          <include name="dataProvider"/>
+          <include name="afterTest"/>
+          <include name="getScreenShotAsFile"/>
+          <include name="beforeTest"/>
         </methods>
       </class> <!-- INTERVIEW_JAVA.ToReadExcelData -->
     </classes>
